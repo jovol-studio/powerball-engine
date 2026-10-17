@@ -1,0 +1,33 @@
+{
+  "id": "./index.html",
+  "name": "Powerball Engine",
+  "short_name": "Powerball",
+  "description": "Powerball history analysis and number generation.",
+  "lang": "en-AU",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#184d30",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./assets/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
